@@ -1,0 +1,21 @@
+//System information
+//Memory Management Information
+//Built-In Information
+//Impotant Declaration(Dec[n])
+
+
+
+
+#include<iostream>
+#include<stdio.h>
+//symbolic constant Decc[n]
+//Pre-Processor Declarati
+//Function Prototype Dec[n]
+
+//namespace dec[n]
+//main dec[n]
+
+int main() {
+    printf("Hello Bolo..");
+    return 0;
+}
